@@ -33,6 +33,7 @@ class DraggableForm:
         
     def self_end(self):
         self.root.quit()
+        self.root.destroy()
 
     def run(self):
         self.root.mainloop()
