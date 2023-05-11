@@ -1,3 +1,5 @@
+import tkinter as tk
+
 class DraggableForm:
     def __init__(self, title):
         self.root = tk.Tk()
