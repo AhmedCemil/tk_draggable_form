@@ -9,4 +9,8 @@ setup(
     author="Ahmed Cemil Bilgin",
     author_email="ahmed.c.bilgin@gmail.com",
     description="Draggable TKinter Form",
+    install_requires=[
+        'tk',
+        # Add other dependencies as needed
+    ],
 )
