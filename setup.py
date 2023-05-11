@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name="acb_draggable_form",
+    name="tk_draggable_form",
     version="0.1",
-    packages=['acb_draggable_form'],
-    url='https://github.com/AhmedCemil/acb_draggable_form',
+    packages=['tk_draggable_form'],
+    url='https://github.com/AhmedCemil/tk_draggable_form',
     license='MIT',
     author="Ahmed Cemil Bilgin",
     author_email="ahmed.c.bilgin@gmail.com",
