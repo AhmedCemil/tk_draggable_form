@@ -30,6 +30,9 @@ class DraggableForm:
 
     def on_drag_ends(self, event):
         self.form_dragging_status = False
+        
+    def self_end(self):
+        self.root.quit()
 
     def run(self):
         self.root.mainloop()
