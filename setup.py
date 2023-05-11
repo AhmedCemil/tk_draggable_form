@@ -3,8 +3,10 @@ from setuptools import setup
 setup(
     name="acb_draggable_form",
     version="0.1",
-    description="Draggable TKinter Form",
+    packages=['acb_draggable_form'],
+    url='https://github.com/AhmedCemil/acb_draggable_form',
+    license='MIT',
     author="Ahmed Cemil Bilgin",
     author_email="ahmed.c.bilgin@gmail.com",
-    packages="acb_draggable_form",
+    description="Draggable TKinter Form",
 )
