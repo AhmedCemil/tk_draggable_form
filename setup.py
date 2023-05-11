@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="draggableform",
+    name="acb_draggable_form",
     version="0.1",
     description="Draggable TKinter Form",
     author="Ahmed Cemil Bilgin",
